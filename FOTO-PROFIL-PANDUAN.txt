@@ -1,0 +1,26 @@
+PANDUAN FOTO PROFIL UNTUK WEBSITE
+=====================================
+
+Nama File: profile-photo.jpg
+
+Spesifikasi:
+- Format: JPG atau PNG
+- Rasio: 3:4 (portrait)
+- Ukuran minimal: 600x800 pixels
+- Ukuran maksimal: 1200x1600 pixels (untuk kualitas terbaik)
+- Ukuran file: maksimal 500KB
+
+Tips Foto:
+- Gunakan foto profesional dengan background yang bersih
+- Pencahayaan yang baik
+- Pakaian formal/business attire
+- Ekspresi ramah dan profesional
+- Fokus pada wajah dan upper body
+
+Cara Menambahkan:
+1. Siapkan foto dengan spesifikasi di atas
+2. Rename foto menjadi "profile-photo.jpg"
+3. Letakkan di folder yang sama dengan index.html
+
+Jika ingin menggunakan foto dengan nama berbeda, ubah di index.html baris:
+<img src="profile-photo.jpg" alt="Nadia Rahman - Chartered Accountant">
